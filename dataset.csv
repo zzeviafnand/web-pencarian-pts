@@ -1,0 +1,46 @@
+﻿id_pt;lokasi;jurusan;akreditasi;fasilitas;biaya_kuliah;jenjang_beasiswa;ikatan_alumni
+1;Dekat pusat kota;Ilmu Komputer;B (Baik);Lengkap;Mahal;Sedang;Aktif dan Kuat
+1;Sangat dekat pusat kota;Bisnis dan Manajemen;B (Baik);Sangat lengkap;Sangat mahal;Tinggi;Sedang aktif
+1;Dekat pusat kota;Teknik;B (Baik);Memadai;Sangat mahal;Rendah;Aktif
+1;Sangat dekat pusat kota;Bisnis dan Manajemen;B (Baik);Sangat lengkap;Sangat mahal;Tinggi;Aktif dan Kuat
+1;Sangat dekat pusat kota;Ilmu Komputer;B (Baik);Sangat lengkap;Mahal;Tinggi;Aktif
+2;Dekat pusat kota;Ilmu Komputer;B (Baik);Lengkap;Sedang;Sedang;Aktif
+2;Dekat pusat kota;Bisnis dan Manajemen;A (Sangat Baik);Lengkap;Sedang;Tinggi;Aktif
+2;Dekat pusat kota;Teknik;B (Baik);Lengkap;Sedang;Sedang;Aktif
+2;Dekat pusat kota;Teknik;B (Baik);Lengkap;Sedang;Sedang;Aktif
+2;Dekat pusat kota;Bisnis dan Manajemen;B (Baik);Lengkap;Sedang;Sedang;Aktif
+3;Di pinggiran kota;Teknik;B (Baik);Lengkap;Terjangkau;Tinggi;Aktif
+3;Di pinggiran kota;Ilmu Komputer;B (Baik);Lengkap;Terjangkau;Tinggi;Aktif
+3;Di pinggiran kota;Teknik;B (Baik);Lengkap;Terjangkau;Tinggi;Aktif
+3;Di pinggiran kota;Teknik;B (Baik);Lengkap;Terjangkau;Tinggi;Aktif
+3;Di pinggiran kota;Ilmu Komputer;B (Baik);Lengkap;Terjangkau;Tinggi;Aktif
+4;Di pinggiran kota;Ilmu Komputer;B (Baik);Lengkap;Sedang;Sedang;Aktif
+4;Di pinggiran kota;Bisnis dan Manajemen;A (Sangat Baik);Lengkap;Sedang;Sedang;Aktif
+4;Di pinggiran kota;Bisnis dan Manajemen;A (Sangat Baik);Lengkap;Sedang;Sedang;Aktif
+4;Di pinggiran kota;Seni dan Humaniora;A (Sangat Baik);Lengkap;Sedang;Sedang;Aktif
+4;Di pinggiran kota;Teknik;B (Baik);Lengkap;Sedang;Sedang;Aktif
+5;Dekat pusat kota;Kesehatan;A (Sangat Baik);Lengkap;Mahal;Tinggi;Aktif
+5;Dekat pusat kota;Kesehatan;A (Sangat Baik);Lengkap;Mahal;Sedang;Aktif
+5;Dekat pusat kota;Kesehatan;A (Sangat Baik);Sangat lengkap;Mahal;Tinggi;Aktif
+5;Dekat pusat kota;Kesehatan;A (Sangat Baik);Sangat lengkap;Sangat mahal;Tinggi;Aktif
+5;Dekat pusat kota;Kesehatan;A (Sangat Baik);Lengkap;Mahal;Tinggi;Aktif
+6;Dekat pusat kota;Bisnis dan Manajemen;A (Sangat Baik);Lengkap;Terjangkau;Sedang;Sedang aktif
+6;Dekat pusat kota;Bisnis dan Manajemen;A (Sangat Baik);Lengkap;Sangat terjangkau;Tinggi;Aktif
+6;Dekat pusat kota;Bisnis dan Manajemen;A (Sangat Baik);Sangat lengkap;Sangat terjangkau;Sedang;Aktif
+6;Dekat pusat kota;Bisnis dan Manajemen;A (Sangat Baik);Memadai;Sangat terjangkau;Sedang;Sedang aktif
+6;Dekat pusat kota;Bisnis dan Manajemen;A (Sangat Baik);Memadai;Sangat terjangkau;Sedang;Sedang aktif
+7;Dekat pusat kota;Bisnis dan Manajemen;A (Sangat Baik);Memadai;Terjangkau;Sedang;Sedang aktif
+7;Dekat pusat kota;Bisnis dan Manajemen;A (Sangat Baik);Memadai;Sedang;Sedang;Sedang aktif
+7;Dekat pusat kota;Bisnis dan Manajemen;A (Sangat Baik);Memadai;Sedang;Sedang;Aktif
+7;Dekat pusat kota;Bisnis dan Manajemen;A (Sangat Baik);Memadai;Sedang;Sedang;Sedang aktif
+7;Dekat pusat kota;Bisnis dan Manajemen;A (Sangat Baik);Memadai;Sangat terjangkau;Sedang;Sedang aktif
+8;Dekat pusat kota;Bisnis dan Manajemen;A (Sangat Baik);Memadai;Terjangkau;Sedang;Kurang aktif
+8;Dekat pusat kota;Bisnis dan Manajemen;A (Sangat Baik);Memadai;Terjangkau;Rendah;Sedang aktif
+8;Dekat pusat kota;Bisnis dan Manajemen;A (Sangat Baik);Terbatas;Sangat terjangkau;Sedang;Sedang aktif
+8;Dekat pusat kota;Bisnis dan Manajemen;A (Sangat Baik);Memadai;Terjangkau;Sedang;Sedang aktif
+8;Dekat pusat kota;Bisnis dan Manajemen;A (Sangat Baik);Memadai;Sedang;Sedang;Sedang aktif
+9;Dekat pusat kota;Seni dan Humaniora;A (Sangat Baik);Memadai;Sedang;Sedang;Sedang aktif
+9;Dekat pusat kota;Seni dan Humaniora;A (Sangat Baik);Lengkap;Terjangkau;Tinggi;Sedang aktif
+9;Dekat pusat kota;Seni dan Humaniora;A (Sangat Baik);Memadai;Sedang;Sedang;Sedang aktif
+9;Dekat pusat kota;Seni dan Humaniora;A (Sangat Baik);Lengkap;Sedang;Sedang;Sedang aktif
+9;Dekat pusat kota;Seni dan Humaniora;A (Sangat Baik);Memadai;Sedang;Sedang;Sedang aktif
